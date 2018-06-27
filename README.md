@@ -1,1 +1,2 @@
-# send_mail
+支持2.6+ <br>
+pip install mailthon
